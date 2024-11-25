@@ -1,3 +1,3 @@
 Product Recommendation System 
 <br>
-Author:Abhishek Koluguri
+Author:Abhishek-Koluguri
